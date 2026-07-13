@@ -1,0 +1,23 @@
+=== CSV Data Analyzer Report ===
+
+Total jobs: 7
+Average salary: £36142.86
+
+Jobs by status:
+- Applied: 3
+- Interview: 2
+- Saved: 1
+- Rejected: 1
+
+Jobs by location:
+- Leeds: 2
+- London: 2
+- Manchester: 1
+- Birmingham: 1
+- Remote: 1
+
+Highest salary job:
+- Company: VisionAI
+- Job Title: Computer Vision Engineer
+- Salary: £45000
+- Location: London
